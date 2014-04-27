@@ -1,0 +1,5 @@
+D:\My Dropbox\School\4351\tproj_repo\TEAM5OCGS\bin\TEAM5OCGS.dll
+D:\My Dropbox\School\4351\tproj_repo\TEAM5OCGS\bin\TEAM5OCGS.pdb
+D:\My Dropbox\School\4351\tproj_repo\TEAM5OCGS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\School\4351\tproj_repo\TEAM5OCGS\obj\Debug\TEAM5OCGS.dll
+D:\My Dropbox\School\4351\tproj_repo\TEAM5OCGS\obj\Debug\TEAM5OCGS.pdb
